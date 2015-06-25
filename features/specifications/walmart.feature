@@ -17,7 +17,7 @@ And I click on the cart icon on the topbar
 And I should be on the meu carrinho page
 Then I should see that the product was added to the cart with success
 
-@notrdy
+@QAready
 Scenario: Walmart TV Search add to cart success with extended 12 month warranty
 
 Given I visit walmart.com
